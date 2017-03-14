@@ -1,0 +1,29 @@
+{
+  "name": "cmltool",
+  "version": "1.0.0",
+  "description": "Commandline Dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkumar-surnar/cmltool.git"
+  },
+  "keywords": [
+    "Dictionary",
+    "in",
+    "NodeJS",
+    "Commandline",
+    "Interface",
+    "application"
+  ],
+  "author": "Rajkumar Surnar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkumar-surnar/cmltool/issues"
+  },
+  "homepage": "https://github.com/rajkumar-surnar/cmltool#readme",
+  "dependencies": {
+  }
+}
